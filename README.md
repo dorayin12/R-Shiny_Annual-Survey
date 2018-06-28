@@ -6,3 +6,5 @@ R Shiny script for annual survey data visualization
 # Use Frequency
 1) Data clean R file using frequncy data of each scale
 2) Plot using plotly
+# Check here 
+http://statmath.uits.indiana.edu:3838/uitssur/
